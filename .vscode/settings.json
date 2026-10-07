@@ -1,0 +1,12 @@
+{
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wrappingIndent": "indent",
+    "editor.wrappingStrategy": "simple",
+    "C_Cpp.default.compilerPath": "C:\\Users\\89735\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin\\g++.exe",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/include",
+        "${workspaceFolder}/**",
+        "C:\\Users\\89735\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\include"
+    ],
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}

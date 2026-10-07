@@ -1,0 +1,18 @@
+# Build directories
+build/
+out/
+
+# Visual Studio / CMake generated files
+.vs/
+*.sln
+*.vcxproj*
+
+# Binaries
+*.exe
+*.obj
+*.o
+*.lib
+*.dll
+
+# Local secrets and environment files
+.env
